@@ -1,0 +1,28 @@
+body,body *{
+    margin:0;
+    padding:0;
+}
+
+p{
+    font-size: 30rem;
+}
+
+img{
+    z-index: -1;
+    position:absolute;
+    left:30%;
+    top:30%;
+    width: 60%;
+    opacity:0.5;
+}
+
+#controller{
+    position: absolute;
+    right:0;
+    top:0;
+    font-size: 32px;
+}
+
+#controller span{
+    margin-right: 30px;
+}
